@@ -1,7 +1,7 @@
 # Humans!
 Deletes kerbal model from eva ,adds equiptable human spacesuit and static props that can be placed on the ground 
 
-[https://www.youtube.com/watch?v=7RfY5rvLtH8](https://github.com/Wargamer2137/Humans/releases/download/tag3/2025-09-30.08-39-09.gif)
+![image alt](https://github.com/Wargamer2137/Humans/releases/download/tag3/2025-09-30.08-39-09.gif)
 
 Install: drop gamedata folder into your ksp folder, for realism overhaul users, delete RO express install folder
 
