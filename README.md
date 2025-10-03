@@ -1,5 +1,7 @@
 # Humans!
-Adds human spacesuit prop that can be deployed like ground science 
+Deletes kerbal model from eva ,adds equiptable human spacesuit and static props that can be placed on the ground 
+
+https://www.youtube.com/watch?v=7RfY5rvLtH8
 
 Install: drop gamedata folder into your ksp folder, for realism overhaul users, delete RO express install folder
 
