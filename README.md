@@ -1,5 +1,5 @@
 # Humans!
-Deletes kerbal model from eva ,adds equiptable human spacesuit and static props that can be placed on the ground 
+Deletes kerbal model from eva, adds equipable human spacesuit and static props that can be placed on the ground.
 
 [![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7RfY5rvLtH8)
 
